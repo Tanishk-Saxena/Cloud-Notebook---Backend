@@ -44,4 +44,5 @@ Start the server
 To run this project, you will need to add the following environment variables to your .env file
 
 `JWT_SECRET` - JWT Secret that is required for authentication purposes.
+
 `mongoUri` - URI to your mongoDB Atlas Database
